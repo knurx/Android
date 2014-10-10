@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Férias</string>
+    <string-array name="places">
+        <item>Bahamas</item>
+        <item>Cancún</item>
+        <item>Japão</item>
+        <item>Noruega</item>
+        <item>Islândia</item>
+        <item>Brasil</item>
+    </string-array>
+    <string name="places_prompt">Escolhe onde queres passar férias</string>
+</resources>
